@@ -1,2 +1,2 @@
 # Drum-Kick-
-Webpage featuring a drum kick application
+Follow along tutorial from https://www.youtube.com/@WesBos creating a webpage that features a drum application
