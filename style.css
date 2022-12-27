@@ -15,7 +15,7 @@ body,html {
     justify-content: center;
     flex: 1;
     align-items: center;
-    min-height: 80vh; /* 100 occupies entire browser window */
+    min-height: 60vh; /* 100 occupies entire browser window */
 }
 
 .key {
@@ -29,11 +29,11 @@ body,html {
     color: white;
     background: rgba(96, 145, 209, 0.6);
     text-shadow: 0 0 0.5rem black;
-    transition: all .07s linear;
+    transition: all .05s ease;
 }
 
 .playing {
-    transform: scale(1.1);
+    transform: scale(1.2);
     border-color: #ffc600;
     box-shadow: 0 0 1rem #ffc600;
 }
